@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         
-        <p>{2+2}</p>
+        <p>{22+2000}</p>
         <a
           className="App-link"
           href="https://reactjs.org"
